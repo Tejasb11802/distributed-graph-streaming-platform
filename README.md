@@ -1,4 +1,4 @@
-# 🚀 Distributed Graph Streaming Platform
+#  Distributed Graph Streaming Platform
 
 **Tejas Bhanushali** | ASU MS Data Science, Analytics & Engineering | May 2026
 
@@ -22,7 +22,7 @@ Built as a group course project for ASU's optimization and distributed systems c
 NYC Taxicab Parquet Dataset (54MB, March 2022)
 |
 data_producer.py
-(Kafka Producer — streams
+(Kafka Producer - streams
 trip records every 250ms)
 |
 Apache Kafka (Topic: nyc_taxicab_data)
@@ -57,7 +57,7 @@ interface.py
 
 ## Dataset
 
-NYC Yellow Taxi Trip Data — March 2022
+NYC Yellow Taxi Trip Data - March 2022
 
 Filtered to Bronx borough trips only:
 - Trip distance greater than 0.1 miles
